@@ -217,9 +217,7 @@ section:last-child {
 				</div>
 				
 				<div class="sectionContent">
-					<p>I'm Qusai Bassam Issa, I Can work at both side, alone and with a team,
-                        I have a lot of skills that will improve you'r copmany like improving new ideas,
-                        my goal is to help the world by creating new technics. </p>
+					<p>I'm Qusai Bassam Issa, I Can work at both side, alone and with a team, I have a lot of skills that will improve you'r copmany like improving new ideas, my goal is to help the world by creating new technics. </p>
 				</div>
 			    <br />
                 <br />
